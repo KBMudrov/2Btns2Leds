@@ -1,0 +1,10 @@
+23:17:51 **** Incremental Build of configuration Debug for project 2b2l ****
+make -j2 all 
+arm-none-eabi-size   2b2l.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5632	     20	   1580	   7232	   1c40	2b2l.elf
+Finished building: default.size.stdout
+ 
+
+23:17:51 Build Finished. 0 errors, 0 warnings. (took 281ms)
+
